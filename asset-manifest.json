@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.21e2f3c6.css",
-    "main.js": "/static/js/main.1eee7585.js",
+    "main.js": "/static/js/main.f7298766.js",
     "static/js/953.80625b0b.chunk.js": "/static/js/953.80625b0b.chunk.js",
     "static/css/245.7bfb5ed4.chunk.css": "/static/css/245.7bfb5ed4.chunk.css",
-    "static/js/245.444fa4a5.chunk.js": "/static/js/245.444fa4a5.chunk.js",
+    "static/js/245.86cad3dc.chunk.js": "/static/js/245.86cad3dc.chunk.js",
     "static/media/87960965.gif": "/static/media/87960965.53146b10875f40aa13dc.gif",
     "static/media/dc7f8e1b.gif": "/static/media/dc7f8e1b.fa17ed6c1baa0358b7bc.gif",
     "static/media/itmp-1.png": "/static/media/itmp-1.7fd693084c2d944e86ba.png",
@@ -37,20 +37,16 @@
     "static/media/521bbff9.woff2": "/static/media/521bbff9.2153ecb1d92dc56d6f94.woff2",
     "static/media/HTTP Logo.png": "/static/media/HTTP Logo.e78c94c668cc99ec1283.png",
     "static/media/IOK Logo Wide.png": "/static/media/IOK Logo Wide.b01a50ab790fbf0b65c0.png",
-    "static/media/iokcafe2.png": "/static/media/iokcafe2.b8cd96c884b82c02e69e.png",
-    "static/media/iokcafe.png": "/static/media/iokcafe.3c1cbe7341ccc96e9715.png",
-    "static/media/iokcafe3.png": "/static/media/iokcafe3.e3f2b99ee2cb1e59375f.png",
     "static/media/IOK Logo Narrow.png": "/static/media/IOK Logo Narrow.edb00c0343d8009214aa.png",
-    "static/media/iokcafe4.png": "/static/media/iokcafe4.aaff3fe7894148873b2e.png",
     "index.html": "/index.html",
     "main.21e2f3c6.css.map": "/static/css/main.21e2f3c6.css.map",
-    "main.1eee7585.js.map": "/static/js/main.1eee7585.js.map",
+    "main.f7298766.js.map": "/static/js/main.f7298766.js.map",
     "953.80625b0b.chunk.js.map": "/static/js/953.80625b0b.chunk.js.map",
     "245.7bfb5ed4.chunk.css.map": "/static/css/245.7bfb5ed4.chunk.css.map",
-    "245.444fa4a5.chunk.js.map": "/static/js/245.444fa4a5.chunk.js.map"
+    "245.86cad3dc.chunk.js.map": "/static/js/245.86cad3dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21e2f3c6.css",
-    "static/js/main.1eee7585.js"
+    "static/js/main.f7298766.js"
   ]
 }
