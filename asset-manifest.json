@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.21e2f3c6.css",
-    "main.js": "/static/js/main.693122c8.js",
-    "static/js/953.80625b0b.chunk.js": "/static/js/953.80625b0b.chunk.js",
-    "static/css/245.7bfb5ed4.chunk.css": "/static/css/245.7bfb5ed4.chunk.css",
-    "static/js/245.86cad3dc.chunk.js": "/static/js/245.86cad3dc.chunk.js",
+    "main.css": "/static/css/main.c00ef97a.css",
+    "main.js": "/static/js/main.e065b35b.js",
+    "static/js/772.5250c988.chunk.js": "/static/js/772.5250c988.chunk.js",
+    "static/css/799.9ad784dc.chunk.css": "/static/css/799.9ad784dc.chunk.css",
+    "static/js/799.b641d710.chunk.js": "/static/js/799.b641d710.chunk.js",
     "static/media/87960965.gif": "/static/media/87960965.53146b10875f40aa13dc.gif",
     "static/media/dc7f8e1b.gif": "/static/media/dc7f8e1b.fa17ed6c1baa0358b7bc.gif",
     "static/media/itmp-1.png": "/static/media/itmp-1.7fd693084c2d944e86ba.png",
@@ -39,14 +39,14 @@
     "static/media/IOK Logo Wide.png": "/static/media/IOK Logo Wide.b01a50ab790fbf0b65c0.png",
     "static/media/IOK Logo Narrow.png": "/static/media/IOK Logo Narrow.edb00c0343d8009214aa.png",
     "index.html": "/index.html",
-    "main.21e2f3c6.css.map": "/static/css/main.21e2f3c6.css.map",
-    "main.693122c8.js.map": "/static/js/main.693122c8.js.map",
-    "953.80625b0b.chunk.js.map": "/static/js/953.80625b0b.chunk.js.map",
-    "245.7bfb5ed4.chunk.css.map": "/static/css/245.7bfb5ed4.chunk.css.map",
-    "245.86cad3dc.chunk.js.map": "/static/js/245.86cad3dc.chunk.js.map"
+    "main.c00ef97a.css.map": "/static/css/main.c00ef97a.css.map",
+    "main.e065b35b.js.map": "/static/js/main.e065b35b.js.map",
+    "772.5250c988.chunk.js.map": "/static/js/772.5250c988.chunk.js.map",
+    "799.9ad784dc.chunk.css.map": "/static/css/799.9ad784dc.chunk.css.map",
+    "799.b641d710.chunk.js.map": "/static/js/799.b641d710.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21e2f3c6.css",
-    "static/js/main.693122c8.js"
+    "static/css/main.c00ef97a.css",
+    "static/js/main.e065b35b.js"
   ]
 }
